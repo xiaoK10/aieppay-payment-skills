@@ -4,7 +4,7 @@
 
 ## 简介
 
-本项目是 [安企付](https://www.aieppay.com) 统一支付接口的 TRAE Skill 文档，支持多种支付方式：
+本项目是 [安企付](https://www.aieppay.com) 统一支付接口的 Skill 文档，支持多种支付方式：
 
 - 微信扫收款码支付 (W01)
 - 微信公众号支付 (W02)
