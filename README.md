@@ -1,4 +1,4 @@
-# anqifu-payment-skills
+# aieppay-payment-skills
 
 安企付(AQF)统一支付接口接入指南，帮助开发者快速集成安企付支付网关。
 
